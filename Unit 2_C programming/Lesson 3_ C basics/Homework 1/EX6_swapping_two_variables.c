@@ -24,8 +24,7 @@ void main()
 
 	fflush(stdin);
 	fflush(stdout);
-
-	// Reading the values of a characters
+	
 	scanf("%f", &value_b);
 
 	// Swapping the two variables
