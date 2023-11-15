@@ -1,5 +1,5 @@
 /*
- * Printing_sentence.c
+ * EX3_adding_integers.c
  *
  *  Created on: Nov 14, 2023
  *      Author: Ahmed

@@ -1,5 +1,5 @@
 /*
- * Printing_sentence.c
+ * EX5_finding_ASCII_value.c
  *
  *  Created on: Nov 14, 2023
  *      Author: Ahmed

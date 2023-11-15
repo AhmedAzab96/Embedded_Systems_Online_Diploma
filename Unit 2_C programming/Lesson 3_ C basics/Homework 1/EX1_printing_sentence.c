@@ -1,5 +1,5 @@
 /*
- * Printing_sentence.c
+ * EX1_printing_sentence.c
  *
  *  Created on: Nov 14, 2023
  *      Author: Ahmed

@@ -1,5 +1,5 @@
 /*
- * Printing_sentence.c
+ * EX4_multiplying_floats.c
  *
  *  Created on: Nov 14, 2023
  *      Author: Ahmed

@@ -1,5 +1,5 @@
 /*
- * Printing_sentence.c
+ * EX6_swapping_variables.c
  *
  *  Created on: Nov 14, 2023
  *      Author: Ahmed
