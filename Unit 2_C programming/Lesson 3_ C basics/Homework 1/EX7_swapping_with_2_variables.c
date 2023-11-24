@@ -32,7 +32,7 @@ void main()
 	value_b = value_a - value_b;
 	value_a = value_a - value_b;
 
-	printf("After swapping, value of a = %10.2f \nAfter swapping, value of b = %10.2f", value_a, value_b);
+	printf("After swapping, value of a = %.2f \nAfter swapping, value of b = %.1f", value_a, value_b);
 
 }
 
