@@ -30,22 +30,22 @@ void main()
 	{
 		if (number_1 > number_3)
 		{
-			printf("Largest number = %f", number_1);
+			printf("Largest number = %.2f", number_1);
 		}
 		else
 		{
-			printf("Largest number = %f", number_3);
+			printf("Largest number = %.2f", number_3);
 		}
 	}
 	else
 		{
 			if (number_2 > number_3)
 			{
-				printf("Largest number = %f", number_2);
+				printf("Largest number = %.2f", number_2);
 			}
 			else
 			{
-				printf("Largest number = %f", number_3);
+				printf("Largest number = %.2f", number_3);
 			}
 		}
 

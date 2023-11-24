@@ -28,11 +28,11 @@ void main()
 
 	if (number > 0)
 	{
-		printf("%f is positive", number);
+		printf("%.2f is positive", number);
 	}
 	else if (number < 0)
 	{
-		printf("%f is negative", number);
+		printf("%.2f is negative", number);
 	}
 	else
 	{
