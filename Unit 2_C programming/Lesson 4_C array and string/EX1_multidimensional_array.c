@@ -58,15 +58,15 @@ void main()
 
 	// Adding the 2 matrices
 	for(i = 1; i <= rows ; i++)
+		{
+			for(j = 1; j <= cols; j++)
 			{
-				for(j = 1; j <= cols; j++)
-				{
 
-					sum_matrix[i][j] = first_matrix[i][j] + second_matrix[i][j];
-
-				}
+				sum_matrix[i][j] = first_matrix[i][j] + second_matrix[i][j];
 
 			}
+
+		}
 
 	// Printing the sum of the 2 matrices
 	printf("Sum of Matrix:\n%.1f\t%.1f\n%.1f\t%.1f",sum_matrix[1][1], sum_matrix[1][2], sum_matrix[2][1], sum_matrix[2][2]);
